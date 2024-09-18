@@ -2,6 +2,7 @@
 
 echo "Compiling..."
 echo "Removing old files..."
+mkdir class
 rm -rf ./class/*.class
 rm mylex.java
 

@@ -1,6 +1,7 @@
 @echo off
 echo Compiling...
 echo Removing old files...
+mkdir class
 del /Q .\class\*.class
 del mylex.java
 
