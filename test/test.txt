@@ -1,0 +1,17 @@
+a + b = 4
+
+if(c == 1)
+ "This is a string"
+
+// This is a comment
+/* This is a multi-line comment 
+    Hello World
+    if(a == 1)
+    "This is a string"
+    end
+*/
+
+a
+2a
+d
+{}
